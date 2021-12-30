@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pirazh Khorramshahi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Pirazh Khorramshahi"
 description              : &description "personal description"
 url                      : https://pirazh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pirazh"
+  name             : "Pirazh (He/Him)"
   avatar           : "profile.jpeg"
   bio              : "PhD Candidate in Electrical & computer Engineering, Johns Hopkins University"
   location         : "Baltimore, MD, United States"
