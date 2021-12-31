@@ -3,7 +3,7 @@ title: "A semi-automatic 2D solution for vehicle speed estimation from monocular
 collection: publications
 permalink: /publication/CVPRW2018
 excerpt: ''
-date: 2018
+date: 2018-07-01
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
 paperurl: 
 citation: 'Kumar, Amit, Pirazh Khorramshahi, Wei-An Lin, Prithviraj Dhar, Jun-Cheng Chen, and Rama Chellappa. "A semi-automatic 2D solution for vehicle speed estimation from monocular videos." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp. 137-144. 2018.'

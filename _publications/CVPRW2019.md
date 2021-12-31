@@ -3,7 +3,7 @@ title: "Attention Driven Vehicle Re-identification and Unsupervised Anomaly Dete
 collection: publications
 permalink: /publication/CVPRW2019
 excerpt: ''
-date: 2019
+date: 2019-06-01
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
 paperurl: 
 citation: 'Khorramshahi, Pirazh, Neehar Peri, Amit Kumar, Anshul Shah, and Rama Chellappa. "Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding." In CVPR Workshops, pp. 239-246. 2019.'

@@ -3,7 +3,7 @@ title: "Towards Accurate Visual and Natural Language-Based Vehicle Retrieval Sys
 collection: publications
 permalink: /publication/CVPRW2021
 excerpt: ''
-date: 2021
+date: 2021-06-01
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
 paperurl: 
 citation: 'Khorramshahi, Pirazh, Sai Saketh Rambhatla, and Rama Chellappa. "Towards Accurate Visual and Natural Language-Based Vehicle Retrieval Systems." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4183-4192. 2021.'

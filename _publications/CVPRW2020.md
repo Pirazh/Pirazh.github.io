@@ -3,7 +3,7 @@ title: "Towards real-time systems for vehicle re-identification, multi-camera tr
 collection: publications
 permalink: /publication/CVPRW2020
 excerpt: ''
-date: 2020
+date: 2020-06-01
 venue: 'Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops'
 paperurl: 
 citation: 'Peri, Neehar, Pirazh Khorramshahi, Sai Saketh Rambhatla, Vineet Shenoy, Saumya Rawat, Jun-Cheng Chen, and Rama Chellappa. "Towards real-time systems for vehicle re-identification, multi-camera tracking, and anomaly detection." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, pp. 622-623. 2020.'
